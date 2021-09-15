@@ -5,4 +5,6 @@ $('#btnTest').click(function(){
         console.log(decHours * decRate);
         
         
+        
 });
+$('#txtPayRate').ch
